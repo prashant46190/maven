@@ -14,6 +14,8 @@ public class ReadDataFromCommandTest {
 		System.out.println(USERNAME);
 		String PASSWORD = System.getProperty("password");
 		System.out.println(PASSWORD);
+		String LOGIN = System.getProperty("login");
+		System.out.println(LOGIN);
 	}
 
 }
