@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="150" started-at="2022-03-15T04:55:29Z" finished-at="2022-03-15T04:55:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="150" started-at="2022-03-15T04:55:29Z" finished-at="2022-03-15T04:55:29Z">
+      <class name="mvn.ReadDataFromCommandTest">
+        <test-method status="PASS" signature="readDataFromCommandTest()[pri:0, instance:mvn.ReadDataFromCommandTest@18be83e4]" name="readDataFromCommandTest" duration-ms="31" started-at="2022-03-15T04:55:29Z" finished-at="2022-03-15T04:55:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readDataFromCommandTest -->
+      </class> <!-- mvn.ReadDataFromCommandTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
